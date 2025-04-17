@@ -81,7 +81,7 @@
       "type": "remote",
       "tag": "qcy",
       "path": "./qcy.json",
-      "download_url": "订阅地址",
+      "download_url": "https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=3210fbd068f74a59e12cfd076cdfc9be",
       "download_ua": "clash",
       "enable_healthcheck": true,
       "healthcheck_url": "https://www.gstatic.com/generate_204",
